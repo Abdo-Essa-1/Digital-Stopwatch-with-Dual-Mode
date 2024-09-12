@@ -1,5 +1,6 @@
 # Digital-Stopwatch-with-Dual-Mode
 a Digital Stopwatch with Dual Mode using the ATmega32 microcontroller and seven-segment displays
+
 Modes:
 Increment Mode (Default): Counts up from zero.
 Countdown Mode: Counts down from a user-defined time.
